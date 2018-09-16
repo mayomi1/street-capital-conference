@@ -1,0 +1,14 @@
+{
+  "status": true,
+  "message": "Speaker added",
+  "data": {
+    "__v": 0,
+    "updatedAt": "2018-09-16T13:24:04.772Z",
+    "createdAt": "2018-09-16T13:24:04.772Z",
+    "name": "sdsds",
+    "company": "adad",
+    "email": "21",
+    "bio": "sdsd",
+    "_id": "5b9e5974a3f5b31a887c0b3f"
+  }
+}

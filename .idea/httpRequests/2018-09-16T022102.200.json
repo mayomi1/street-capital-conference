@@ -1,0 +1,15 @@
+{
+  "status": true,
+  "message": "Your talk has been created",
+  "data": {
+    "__v": 0,
+    "updatedAt": "2018-09-16T13:20:45.900Z",
+    "createdAt": "2018-09-16T13:20:45.900Z",
+    "title": "sdsds",
+    "abstract": "adad",
+    "room": 21,
+    "_id": "5b9e58ad2d3a7d19c55e6adf",
+    "attendees": [],
+    "speakers": []
+  }
+}
