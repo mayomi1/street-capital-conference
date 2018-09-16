@@ -1,0 +1,17 @@
+{
+  "status": true,
+  "message": "get talk",
+  "data": [
+    {
+      "_id": "5b9ebbf7750a1519b6495608",
+      "updatedAt": "2018-09-16T20:24:23.971Z",
+      "createdAt": "2018-09-16T20:24:23.971Z",
+      "title": "afdfd",
+      "abstract": "sdsd sdsd",
+      "room": 31,
+      "__v": 0,
+      "attendee": [],
+      "speaker": []
+    }
+  ]
+}

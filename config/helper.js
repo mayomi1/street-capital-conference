@@ -87,7 +87,7 @@ exports.checkAuthorization = (res, req) => {
 exports.pushSpeaker2Talk = (talk_id, newModel) => {
 	const query = { _id: talk_id };
 	TalkModel.findOneTalk(query).then(talk => {
-		talk.speakers.push(newModel);
+		talk.speaker.push(newModel);
 		talk.save();
 	})
 };
@@ -95,7 +95,7 @@ exports.pushSpeaker2Talk = (talk_id, newModel) => {
 exports.pushAttendee2Talk = (talk_id, newModel) => {
 	const query = { _id: talk_id };
 	TalkModel.findOneTalk(query).then(talk => {
-		talk.attendees.push(newModel);
+		talk.attendee.push(newModel);
 		talk.save();
 	})
 };

@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c02a16b9-d378-4c67-8fd6-11d3be1e2428" name="Default" comment="" />
+    <list default="true" id="c02a16b9-d378-4c67-8fd6-11d3be1e2428" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021242.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021256.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021305.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021331.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021343.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021459.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021504.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021516.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T021628.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022102.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022226.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022325.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022327.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022340.404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022414.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022531.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T022642.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T023043.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T023108.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T023114.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2018-09-16T023402.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/attendeeController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/attendeeController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/talkController.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/talkController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/attendee.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/attendee.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/speaker.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/speaker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/talk.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/talk.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router.js" beforeDir="false" afterPath="$PROJECT_DIR$/router.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,21 +44,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="talkController.js" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="talkController.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/talkController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="55">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="talk.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="talk.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/talk.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+            <state relative-caret-position="82">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -36,17 +66,8 @@
       <file leaf-file-name="speakerController.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/speakerController.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
+            <state relative-caret-position="332">
               <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -63,17 +84,8 @@
       <file leaf-file-name="helper.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/helper.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="563">
-              <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="constant.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/constant.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="2047">
+              <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -81,8 +93,8 @@
       <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/router.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="175">
+              <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -90,8 +102,26 @@
       <file leaf-file-name="speaker.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/speaker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="46">
+              <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pool.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/pool.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="468" column="17" selection-start-line="468" selection-start-column="17" selection-end-line="468" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attendeeController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/controllers/attendeeController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -99,8 +129,8 @@
       <file leaf-file-name="attendee.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/models/attendee.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="115">
+              <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -114,23 +144,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="dummy://restClient/response55.json" root0="SKIP_INSPECTION" />
+    <setting file="dummy://restClient/response223.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/models/talk.js" />
         <option value="$PROJECT_DIR$/config/constant.js" />
-        <option value="$PROJECT_DIR$/config/helper.js" />
-        <option value="$PROJECT_DIR$/controllers/attendeeController.js" />
         <option value="$PROJECT_DIR$/controllers/speakerController.js" />
         <option value="$PROJECT_DIR$/config/main.js" />
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/models/speaker.js" />
+        <option value="$PROJECT_DIR$/models/talk.js" />
+        <option value="$PROJECT_DIR$/config/helper.js" />
         <option value="$PROJECT_DIR$/models/attendee.js" />
-        <option value="$PROJECT_DIR$/controllers/talkController.js" />
+        <option value="$PROJECT_DIR$/models/speaker.js" />
+        <option value="$PROJECT_DIR$/controllers/attendeeController.js" />
         <option value="$PROJECT_DIR$/router.js" />
+        <option value="$PROJECT_DIR$/controllers/talkController.js" />
       </list>
     </option>
   </component>
@@ -150,6 +183,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1084" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -201,7 +235,843 @@
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk/5b9ebbf7750a1519b6495608" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="hgnjj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/attendee/5b9ebbf7750a1519b6495608" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="hgnjj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/speaker/5b9ebbf7750a1519b6495608" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="hgnjj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
           <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="hgnjj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="hgnjj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="232" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="232njj" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="11" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="jjkjk" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="31" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="afdfd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="abstract" />
+                <option name="value" value="sdsd sdsd" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="room" />
+                <option name="value" value="ewe" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk/5b9e58ad2d3a7d19c55e6adf" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk/5b9e58ad2d3a7d19c55e6adf" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/attendee/5b9eb92b6ea4ec15c10d41d1" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/speaker/5b9eb8d86ea4ec15c10d41cf" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="DELETE" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/attendee/5b9eb9276ea4ec15c10d41d0" />
           <option name="headers">
             <list>
               <KeyValuePair>
@@ -327,6 +1197,92 @@
             </list>
           </option>
           <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/attendee/5b9e58ad2d3a7d19c55e6adf" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:3000" />
+          <option name="urlPath" value="/api/talk" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="name" />
+                <option name="value" value="sdsds" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="company" />
+                <option name="value" value="adad" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="email" />
+                <option name="value" value="21" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="talk_id" />
+                <option name="value" value="5b9e58ad2d3a7d19c55e6adf" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="bio" />
+                <option name="value" value="sdsd" />
+              </KeyValuePair>
+            </list>
+          </option>
           <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
@@ -599,12 +1555,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537098260052</updated>
-      <workItem from="1537098263006" duration="6971000" />
+      <workItem from="1537098263006" duration="7314000" />
+      <workItem from="1537127730060" duration="2282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6971000" />
+    <option name="totallyTimeSpent" value="9596000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -618,25 +1575,25 @@
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16951673" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32913387" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="REST Client" weight="0.51338583" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="REST Client" order="7" weight="0.5322835" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info id="npm" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32913387" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16976917" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32913387" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,36 +1603,77 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/models/main.js">
+    <entry file="file://$PROJECT_DIR$/controllers/talkController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="3" selection-end-line="15" />
+        <state relative-caret-position="713">
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/home.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/attendeeController.js">
+    <entry file="file://$PROJECT_DIR$/controllers/speakerController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="989">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/config/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="90" selection-start-column="90" selection-end-column="90" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/helper.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
+        <state relative-caret-position="2254">
           <caret line="98" column="20" selection-start-line="98" selection-start-column="20" selection-end-line="98" selection-end-column="20" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/config/constant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/speaker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/attendee.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/talk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="24" lean-forward="true" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/main.js" />
     <entry file="file://$PROJECT_DIR$/config/constant.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -697,45 +1695,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/speakerController.js">
+    <entry file="file://$PROJECT_DIR$/models/talk.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="82">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/helper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2047">
+          <caret line="89" column="29" selection-start-line="89" selection-start-column="29" selection-end-line="89" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/attendee.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="115">
+          <caret line="5" column="65" selection-start-line="5" selection-start-column="65" selection-end-line="5" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/router.js">
+    <entry file="file://$PROJECT_DIR$/controllers/speakerController.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/talkController.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="31" column="27" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="27" />
+        <state relative-caret-position="332">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/models/speaker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="46">
+          <caret line="4" column="65" selection-start-line="4" selection-start-column="65" selection-end-line="4" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/models/talk.js">
+    <entry file="file://$PROJECT_DIR$/node_modules/mongodb-core/lib/connection/pool.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="47" column="2" lean-forward="true" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+        <state relative-caret-position="133">
+          <caret line="468" column="17" selection-start-line="468" selection-start-column="17" selection-end-line="468" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/attendeeController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="19" column="56" selection-start-line="19" selection-start-column="56" selection-end-line="19" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/talkController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
         </state>
       </provider>
     </entry>

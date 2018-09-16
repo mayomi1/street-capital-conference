@@ -2,8 +2,9 @@
  * Created by mayomi on 9/16/18 by 12:50 PM.
  */
 
-const mongoose = require('mongoose'),
-	Schema = mongoose.Schema;
+const mongoose = require('mongoose');
+mongoose.plugin(schema => { schema.options.usePushEach = true });
+const Schema = mongoose.Schema;
 //================================
 // Attendee Schema
 //================================

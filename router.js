@@ -17,8 +17,9 @@ module.exports = function (app) {
 
     // route to  Talk
     talkRoutes.get('/', TalkController.getAllTalk);
+    talkRoutes.get('/:talk_id', TalkController.getTalk);
     talkRoutes.post('/', TalkController.createTalk);
-    talkRoutes.delete('/talk_id', TalkController.deleteTalk);
+    talkRoutes.delete('/:talk_id', TalkController.deleteTalk);
 
     // route to speaker
     speakerRoutes.post('/:talk_id', SpeakerController.addSpeaker);

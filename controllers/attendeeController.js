@@ -39,6 +39,6 @@ exports.deleteAttendee = (req, res) => {
 	const {attendee_id} = req.params;
 
 	AttendeeModel.deleteAttendee(attendee_id)
-		.then(()=>successResponse(res, 'Attendee', null))
+		.then(()=>successResponse(res, 'Attendee deleted', null))
 		.catch(error=>unknownError(res, error))
 };

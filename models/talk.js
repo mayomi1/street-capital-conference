@@ -1,8 +1,8 @@
 const mongoose = require('mongoose'),
 	Schema = mongoose.Schema;
 
-const speakers = require('./speaker');
-const attendees = require('./attendee');
+const speaker = require('./speaker');
+const attendee = require('./attendee');
 
 //================================
 // Talk Schema
@@ -17,8 +17,8 @@ const TalkSchema = new Schema({
 		room: {
 			type: Number
 		},
-		speakers: [{type: Schema.Types.ObjectId, ref: 'speakers'}],
-		attendees: [{type: Schema.Types.ObjectId, ref: 'attendees'}]
+		speaker: [{type: Schema.Types.ObjectId, ref: 'speaker'}],
+		attendee: [{type: Schema.Types.ObjectId, ref: 'attendee'}]
 	},
 	{
 		timestamps: true

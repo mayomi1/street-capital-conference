@@ -15,6 +15,7 @@ exports.createTalk = (req, res) => {
 		case !title: return knownError(res, 'Title is required');
 		case !abstract: return knownError(res, 'Abstract is required');
 		case !room: return knownError(res, 'Room is required');
+		case !Number.isInteger(Number(room)): return knownError(res, 'Room should be a number');
 		default:
 			'';
 	}
@@ -29,8 +30,8 @@ exports.createTalk = (req, res) => {
 
 exports.getAllTalk = (req, res) => {
 	TalkModel.find({})
-		.populate('speakers')
-		.populate('attendees')
+		.populate('speaker')
+		.populate('attendee')
 		.then(talk => successResponse(res, 'get all talk', talk))
 		.catch(error => unknownError(res, error));
 };
@@ -41,9 +42,9 @@ exports.getTalk = (req, res) => {
 		_id: talkId
 	};
 	TalkModel.findBy(findWith)
-		.populate('speakers')
-		.populate('attendees')
-		.then(talk => successResponse(res, 'get all talk', talk))
+		.populate('speaker')
+		.populate('attendee')
+		.then(talk => successResponse(res, 'get talk', talk))
 		.catch(error => unknownError(res, error));
 };
 
